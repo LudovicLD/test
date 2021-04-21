@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1618847207279.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2321988276",
+    "id" : "C68A2E5F",
+    "lastKnownWriteTime" : 1618847218,
+    "last_content_update" : 1618847218587,
+    "path" : "//srfs-rech01/biologie$/USAGERS/lanl0056/test/README.md",
+    "project_path" : "README.md",
+    "properties" : {
+        "cursorPosition" : "3,20",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "markdown"
+}
